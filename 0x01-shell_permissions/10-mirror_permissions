@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --reference=olleh hello
+chmod --reference=olleh hello
