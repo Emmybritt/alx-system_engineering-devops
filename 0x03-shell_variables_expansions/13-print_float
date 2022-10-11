@@ -1,2 +1,2 @@
 #!/bin/bash
-printf -v var '%.2f' "$NUM"
+printf '%.2f \n' $NUM
